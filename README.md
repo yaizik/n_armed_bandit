@@ -4,6 +4,7 @@ Reinforcement learning solution for the [N armed bandit problem](http://en.wikip
 
 Inspired by the book "Reinforcement Learning" by Sutton and Barto, this is a suggested solution for the simple stationary N armed bandit problem. 
 
-Will easily run from IPython (%run -i n_armed_bandit)
+Will easily %run from IPython.
 
 ![Screenshot](/200-armed-screenshot.png?raw=true "Example for running 200-Arm Bandit for various configurations")
+Example for running 200-Arm Bandit for various configurations
